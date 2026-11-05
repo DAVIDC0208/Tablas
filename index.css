@@ -27,22 +27,23 @@
   border-right: none;
 }
 .border_table {
-    border: 1px solid grey;
-    border-radius: 10px;
-    border-collapse: collapse;
+  border: 1px solid grey;
+  border-radius: 10px;
+  border-collapse: separate;
+  border-spacing: 0;
 }
 .rowspan_color {
-    background-color: aqua;
-    border-radius: 10px;
+  background-color: aqua;
+  border-radius: 10px;
 }
 .rowspan_color_2 {
-    background-color: blueviolet;
-    border-radius: 10px;
+  background-color: blueviolet;
+  border-radius: 10px;
 }
 .rowspan_color_3 {
-    background-color: greenyellow;
-    border-radius: 10px;
+  background-color: greenyellow;
+  border-radius: 10px;
 }
 .text_align {
-    text-align: center;
+  text-align: center;
 }
